@@ -11,6 +11,9 @@ Correspondence to: Annemieke de Jong, Columbia University Irving Medical Center,
 Any quereis related to code, please raise issues on GitHub or email at _<mongaisha4@gmail.com>
 
 
-Present repository contains a) codes for single-cell analysis in the following directory: **Code**
+Present repository contains:
+a) codes for single-cell analysis in the following directory: **Code**
+
 b) Processed files: **input files**
+
 c) Outputs: **Output**
