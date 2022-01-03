@@ -8,7 +8,7 @@ Gwennaëlle C. Monnot1, Marcin Wegrecki2, Tan-Yun Cheng3, Brigitte Sallee1 , Shi
 Correspondence to: Annemieke de Jong, Columbia University Irving Medical Center, College of Physicians and Surgeons, Department of Dermatology, Russ Berrie Medical Science Pavilion, room 303B, New York, NY 10032. <ad2952@cumc.columbia.edu>.
 
 
-Any quereis related to code, please raise issues on GitHub or email at _<mongaisha4@gmail.com>
+Any queries related to code, please raise issues on GitHub or email at _<mongaisha4@gmail.com>
 
 
 Present repository contains:
