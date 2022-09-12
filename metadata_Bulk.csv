@@ -1,0 +1,7 @@
+﻿ id , condition ,celltype  ,type
+921-stim,Stimulated,921,paired-end
+921-AdJ-stim,Stimulated,921-AdJ,paired-end
+966-stim,Stimulated,966,paired-end
+921-unstim,unstimulated,921,paired-end
+921-AdJ-unstim,unstimulated,921-AdJ,paired-end
+966-unstim,unstimulated,966,paired-end
