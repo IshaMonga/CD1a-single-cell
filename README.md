@@ -1,5 +1,5 @@
 **CD1a-single-cell**
-CD1a presents a range of self-lipid antigens found within the skin. Here in this study, we leveraged the power and potential of Plate-based single-cell RNAseq method to explore and analyze the expanded T-cell against the CD1a displayed ligands. We also confirmed the findings via Bulk RNAseq method (Manuscript is in communication).
+CD1a presents a range of self-lipid antigens found within the skin. Here in this study, we leveraged the power and potential of Plate-based single-cell RNAseq method to explore and analyze the expanded T-cell against the CD1a displayed ligands. We also confirmed the findings via Bulk RNAseq method (Manuscript Accepted).
 
 **Title:**BACTERIAL MEMBRANE PHOSPHATIDYLGLYCEROLS EXPAND A POPULATION OF HUMAN CD1A-RESTRICTED T CELLS IN ATOPIC DERMATITIS**
 
